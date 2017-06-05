@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="One"
+        android:id="@+id/mi01"
+        android:icon="@drawable/ic_action_cal"
+        app:showAsAction="always" />
+    <item android:title="Two"
+        android:id="@+id/mi02"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="always" />
+    <item android:title="Three"
+        android:id="@+id/mi03"
+        android:icon="@drawable/ic_action_gesture"
+        app:showAsAction="always" />
+</menu>
